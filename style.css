@@ -335,18 +335,10 @@ img {
   box-shadow: 0 18px 50px rgba(0,0,0,0.16);
 }
 
-.project-card.featured {
-  grid-row: span 2;
-}
-
 .project-card img {
   aspect-ratio: 16 / 10;
   object-fit: cover;
   border-bottom: 1px solid var(--line);
-}
-
-.project-card.featured img {
-  aspect-ratio: 16 / 13;
 }
 
 .project-content {
