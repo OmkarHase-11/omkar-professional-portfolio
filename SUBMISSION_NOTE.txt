@@ -1,0 +1,21 @@
+Sample Portfolio Website - Submission Note
+
+Name: Omkar Hase
+
+I created a professional portfolio website sample that includes:
+- Punchy hero section with clear CTA buttons
+- Project gallery with visual thumbnails
+- Case studies following Problem, Process, Result format
+- Authentic About Me section
+- 1-page resume page
+- Direct contact links
+- Mobile responsive layout
+
+Tech Stack:
+HTML, CSS, JavaScript
+
+Professional Links:
+GitHub: https://github.com/OmkarHase-11
+LinkedIn: https://www.linkedin.com/in/omkarhase/
+
+This sample demonstrates my ability to create a clean and professional portfolio website for a freelancer/teenlancer.
